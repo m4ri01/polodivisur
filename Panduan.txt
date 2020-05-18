@@ -1,0 +1,6 @@
+1. File lomba.ipynb adalah file preprocess dan pembuatan model menggunakan Google Colab
+2. File Corona.csv adalah dataset yang digunakan dalam file lomba.ipynb
+3. File model.sav adalah model Kmeans yang disimpan
+4. File w2vKata.pkl adalah list Word2Vect Vocabulary
+5. File simpan adalah model Word2Vect
+6. File cobaapi.py adalah file yang akan di run pada server, dimana file ini berisi tentang pembuatan API menggunakan model yang sudah ada
